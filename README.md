@@ -9,6 +9,6 @@ This is Simple To Do List made with using:
  
  ## Routes
   * Home Page = /
-  * Compose custom list as per you(i.e : School, Gym) = /School or /work
+  * Compose custom list as per you(i.e : School, work) = /School or /work
   
   
